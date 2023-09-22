@@ -11,7 +11,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
-这是一个适用于[彩云天气集成](https://github.com/fineemb/Colorfulclouds-weather)的Lovelace卡片
+这是一个适用于[彩云天气集成](https://github.com/fineemb/Colorfulclouds-weather)的Lovelace卡片, 并在原来的基础上增加预警显示，PM2.5和PM10显示等。
 
 + 支持15天天气预报的展示
 + 支持小时详细预报
