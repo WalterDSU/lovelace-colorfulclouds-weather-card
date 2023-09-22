@@ -43,6 +43,8 @@
   
 ## 预览
 ![](01.gif)
+![20230922180607](https://github.com/WalterDSU/lovelace-colorfulclouds-weather-card/assets/91654066/1f823c9c-4fe7-4899-a7bf-e6764b1314c8)
+
 
 ## 图标
 
