@@ -1,4 +1,4 @@
-console.info("%c  WEATHER CARD  \n%c  Version 2022.7.12 ",
+console.info("%c  WEATHER CARD  \n%c  Version 2023.9.22 ",
 "color: orange; font-weight: bold; background: black", 
 "color: white; font-weight: bold; background: dimgray");
 
