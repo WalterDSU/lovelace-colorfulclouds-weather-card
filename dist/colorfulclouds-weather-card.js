@@ -1005,10 +1005,10 @@ export class WeatherEditor extends LitElement {
   }  
 }
 
-customElements.define("colorfulclouds-weather-card-editor", WeatherEditor);
+customElements.define("colorfulclouds-weather-plus-card-editor", WeatherEditor);
 window.customCards = window.customCards || [];
 window.customCards.push({
-  type: "colorfulclouds_weather-card",
+  type: "colorfulclouds_weather-plus-card",
   name: "彩云天气plus",
   preview: true, // Optional - defaults to false
   description: "彩云天气plus卡片" // Optional
