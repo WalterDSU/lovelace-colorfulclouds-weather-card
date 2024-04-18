@@ -16049,15 +16049,15 @@
 	
   }
 
-  customElements.define('colorfulclouds_weather-chart-card', WeatherChartCard);
+  customElements.define('colorfulclouds_weather-chart-plus-card', WeatherChartCard);
 
   // 添加预览
   window.customCards = window.customCards || [];
   window.customCards.push({
-	type: "colorfulclouds_weather-chart-card",
-	name: "彩云天气图表",
+	type: "colorfulclouds_weather-chart-plus-card",
+	name: "彩云天气图表plus",
 	preview: true,
-	description: "彩云天气图表卡片"
+	description: "彩云天气图表-plus卡片"
   });
 
 })));
