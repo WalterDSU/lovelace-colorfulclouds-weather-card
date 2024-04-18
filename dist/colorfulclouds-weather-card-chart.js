@@ -16057,7 +16057,7 @@
 	type: "colorfulclouds_weather-chart-plus-card",
 	name: "彩云天气图表plus",
 	preview: true,
-	description: "彩云天气图表-plus卡片"
+	description: "彩云天气图表plus卡片"
   });
 
 })));
